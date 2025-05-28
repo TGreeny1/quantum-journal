@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Obsidian vault settings
+.obsidian/
+
+# Editor swap/backup files
+*~
+*.swp
+*.bak
+
+# Logs or temp files
+*.log
+*.tmp
+
+# If you ever add Hugo/blog content:
+public/
+resources/
+node_modules/
